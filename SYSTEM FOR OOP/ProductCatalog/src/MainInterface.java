@@ -1230,6 +1230,7 @@ public class MainInterface extends javax.swing.JFrame {
 
     private void jPanel25MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel25MouseClicked
         // TODO add your handling code here:
+        //asdasdas
         showOnlyPanel(ram);
        
     }//GEN-LAST:event_jPanel25MouseClicked
